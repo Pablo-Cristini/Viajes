@@ -1,0 +1,34 @@
+{
+    "trips": [
+        {
+            "title": "7 noches en Barcelona",
+            "price": "350",
+            "id": "1",
+            "loc": "España"
+        },
+        {
+            "title": "4 noches en Malaga",
+            "price": "250",
+            "id": "2",
+            "loc": "España"
+        },
+        {
+            "title": "10 noches en Paris",
+            "price": "500",
+            "id": "3",
+            "loc": "Francia"
+        },
+        {
+            "title": "8 noches en Londres",
+            "price": "600",
+            "id": "4",
+            "loc": "Inglaterra"
+        },
+        {
+            "title": "10 noches en Manchester",
+            "price": "500",
+            "id": "5",
+            "loc": "Inglaterra"
+        }
+    ]
+}
